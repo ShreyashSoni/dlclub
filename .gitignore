@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Jupyter Notebooks
+.ipynb_checkpoints
+
 # =========================
 # Operating System Files
 # =========================
